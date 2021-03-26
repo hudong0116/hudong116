@@ -1,0 +1,90 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    k8s.kuboard.cn/workload: ingress-nginx
+    kubectl.kubernetes.io/last-applied-configuration: >-
+      {"apiVersion":"v1","kind":"Service","metadata":{"annotations":{},"label":"ingress-nginx","app.kubernetes.is":{"app.kubernetes.io/name":"ingress-nginx","app.kubernetes.io/part-of":"ingress-nginx"},"name":"ingress-nginx","namespace":"ingress-nginx"},"spec":{"ports":[{"name":"http","nodePort":32080,"port":80,"protocol":"TCP","targetPort":80},{"name":"https","nodePort":32443,"port":443,"protocol":"TCP","targetPort":443},{"name":"img","nodePort":31380,"port":1380,"protocol":"TCP","targetPort":1380}],"selector":{"app.kubernetes.io/nameo/part-of":"ingress-nginx"},"type":"NodePort"}}
+  creationTimestamp: '2021-03-15T02:24:35Z'
+  labels:
+    app.kubernetes.io/name: ingress-nginx
+    app.kubernetes.io/part-of: ingress-nginx
+  managedFields:
+    - apiVersion: v1
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:metadata':
+          'f:annotations': {}
+          'f:labels':
+            .: {}
+            'f:app.kubernetes.io/name': {}
+            'f:app.kubernetes.io/part-of': {}
+        'f:spec':
+          'f:ports': {}
+          'f:selector':
+            .: {}
+            'f:app.kubernetes.io/name': {}
+            'f:app.kubernetes.io/part-of': {}
+          'f:sessionAffinity': {}
+          'f:type': {}
+      manager: kubectl-client-side-apply
+      operation: Update
+    - apiVersion: v1
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:metadata':
+          'f:annotations':
+            'f:k8s.kuboard.cn/workload': {}
+            'f:kubectl.kubernetes.io/last-applied-configuration': {}
+        'f:spec':
+          'f:externalTrafficPolicy': {}
+          'f:ports':
+            'k:{"port":1380,"protocol":"TCP"}':
+              .: {}
+              'f:name': {}
+              'f:nodePort': {}
+              'f:port': {}
+              'f:protocol': {}
+              'f:targetPort': {}
+            'k:{"port":2780,"protocol":"TCP"}':
+              .: {}
+              'f:name': {}
+              'f:nodePort': {}
+              'f:port': {}
+              'f:protocol': {}
+              'f:targetPort': {}
+            'k:{"port":443,"protocol":"TCP"}':
+              .: {}
+              'f:name': {}
+              'f:nodePort': {}
+              'f:port': {}
+              'f:protocol': {}
+              'f:targetPort': {}
+      manager: Mozilla
+      operation: Update
+  name: ingress-nginx
+  namespace: ingress-nginx
+  selfLink: /api/v1/namespaces/ingress-nginx/services/ingress-nginx
+spec:
+  externalTrafficPolicy: Local
+  ports:
+    - name: http
+      nodePort: 32080
+      port: 2780
+      protocol: TCP
+      targetPort: 80
+    - name: https
+      nodePort: 443
+      port: 443
+      protocol: TCP
+      targetPort: 443
+    - name: img
+      nodePort: 31380
+      port: 1380
+      protocol: TCP
+      targetPort: 80
+  selector:
+    app.kubernetes.io/name: ingress-nginx
+    app.kubernetes.io/part-of: ingress-nginx
+  sessionAffinity: None
+  type: NodePort
