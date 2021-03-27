@@ -1,0 +1,74 @@
+﻿[
+  {
+    "local_id": 430202,
+    "name": "荷塘区",
+    "confirmed_count": 21,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 21,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430224,
+    "name": "茶陵县",
+    "confirmed_count": 13,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 13,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430203,
+    "name": "芦淞区",
+    "confirmed_count": 10,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 10,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430211,
+    "name": "天元区",
+    "confirmed_count": 10,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 10,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430204,
+    "name": "石峰区",
+    "confirmed_count": 9,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 9,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430281,
+    "name": "醴陵市",
+    "confirmed_count": 8,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 8,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 430223,
+    "name": "攸县",
+    "confirmed_count": 7,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 7,
+    "confirmed_incr": 0
+  },
+  {
+    "local_id": 0,
+    "name": "云龙示范区",
+    "confirmed_count": 2,
+    "death_count": -1,
+    "suspected_count": 0,
+    "cured_count": 2,
+    "confirmed_incr": 0
+  }
+]

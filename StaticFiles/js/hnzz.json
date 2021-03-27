@@ -1,0 +1,497 @@
+[
+  {
+    "date": "2020-03-18",
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 0
+  },
+  {
+    "date": "2020-03-17",
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 0
+  },
+  {
+    "date": "2020-03-16",
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 0
+  },
+  {
+    "date": "2020-03-15",
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 0
+  },
+  {
+    "date": "2020-03-14",
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 0
+  },
+  {
+    "date": "2020-03-13",
+    "confirmedNum": 80,
+    "curesNum": 79,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 1
+  },
+  {
+    "date": "2020-03-12",
+    "confirmedNum": 80,
+    "curesNum": 78,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 2
+  },
+  {
+    "date": "2020-03-11",
+    "confirmedNum": 80,
+    "curesNum": 77,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 3
+  },
+  {
+    "date": "2020-03-10",
+    "confirmedNum": 80,
+    "curesNum": 77,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 3
+  },
+  {
+    "date": "2020-03-09",
+    "confirmedNum": 80,
+    "curesNum": 77,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 3
+  },
+  {
+    "date": "2020-03-08",
+    "confirmedNum": 80,
+    "curesNum": 76,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 4
+  },
+  {
+    "date": "2020-03-07",
+    "confirmedNum": 80,
+    "curesNum": 74,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 6
+  },
+  {
+    "date": "2020-03-06",
+    "confirmedNum": 80,
+    "curesNum": 74,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 6
+  },
+  {
+    "date": "2020-03-05",
+    "confirmedNum": 80,
+    "curesNum": 73,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 7
+  },
+  {
+    "date": "2020-03-04",
+    "confirmedNum": 80,
+    "curesNum": 73,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 7
+  },
+  {
+    "date": "2020-03-02",
+    "confirmedNum": 80,
+    "curesNum": 69,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 11
+  },
+  {
+    "date": "2020-03-01",
+    "confirmedNum": 80,
+    "curesNum": 69,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 11
+  },
+  {
+    "date": "2020-02-29",
+    "confirmedNum": 80,
+    "curesNum": 62,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 18
+  },
+  {
+    "date": "2020-02-28",
+    "confirmedNum": 80,
+    "curesNum": 62,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 18
+  },
+  {
+    "date": "2020-02-27",
+    "confirmedNum": 80,
+    "curesNum": 56,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 24
+  },
+  {
+    "date": "2020-02-26",
+    "confirmedNum": 80,
+    "curesNum": 56,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 24
+  },
+  {
+    "date": "2020-02-25",
+    "confirmedNum": 80,
+    "curesNum": 54,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 26
+  },
+  {
+    "date": "2020-02-24",
+    "confirmedNum": 80,
+    "curesNum": 52,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 28
+  },
+  {
+    "date": "2020-02-23",
+    "confirmedNum": 80,
+    "curesNum": 50,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 30
+  },
+  {
+    "date": "2020-02-22",
+    "confirmedNum": 80,
+    "curesNum": 47,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 33
+  },
+  {
+    "date": "2020-02-21",
+    "confirmedNum": 79,
+    "curesNum": 47,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 32
+  },
+  {
+    "date": "2020-02-20",
+    "confirmedNum": 78,
+    "curesNum": 46,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 32
+  },
+  {
+    "date": "2020-02-19",
+    "confirmedNum": 78,
+    "curesNum": 40,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 38
+  },
+  {
+    "date": "2020-02-18",
+    "confirmedNum": 78,
+    "curesNum": 37,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 41
+  },
+  {
+    "date": "2020-02-17",
+    "confirmedNum": 78,
+    "curesNum": 35,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 43
+  },
+  {
+    "date": "2020-02-16",
+    "confirmedNum": 78,
+    "curesNum": 33,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 45
+  },
+  {
+    "date": "2020-02-15",
+    "confirmedNum": 78,
+    "curesNum": 29,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 49
+  },
+  {
+    "date": "2020-02-14",
+    "confirmedNum": 78,
+    "curesNum": 23,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 55
+  },
+  {
+    "date": "2020-02-13",
+    "confirmedNum": 77,
+    "curesNum": 21,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 56
+  },
+  {
+    "date": "2020-02-12",
+    "confirmedNum": 75,
+    "curesNum": 14,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 61
+  },
+  {
+    "date": "2020-02-11",
+    "confirmedNum": 71,
+    "curesNum": 12,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 59
+  },
+  {
+    "date": "2020-02-10",
+    "confirmedNum": 68,
+    "curesNum": 11,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 57
+  },
+  {
+    "date": "2020-02-09",
+    "confirmedNum": 61,
+    "curesNum": 10,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 51
+  },
+  {
+    "date": "2020-02-08",
+    "confirmedNum": 58,
+    "curesNum": 9,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 49
+  },
+  {
+    "date": "2020-02-07",
+    "confirmedNum": 48,
+    "curesNum": 8,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 40
+  },
+  {
+    "date": "2020-02-06",
+    "confirmedNum": 46,
+    "curesNum": 7,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 39
+  },
+  {
+    "date": "2020-02-05",
+    "confirmedNum": 41,
+    "curesNum": 2,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 39
+  },
+  {
+    "date": "2020-02-04",
+    "confirmedNum": 38,
+    "curesNum": 2,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 36
+  },
+  {
+    "date": "2020-02-03",
+    "confirmedNum": 34,
+    "curesNum": 1,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 33
+  },
+  {
+    "date": "2020-02-02",
+    "confirmedNum": 26,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 26
+  },
+  {
+    "date": "2020-02-01",
+    "confirmedNum": 25,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 25
+  },
+  {
+    "date": "2020-01-31",
+    "confirmedNum": 22,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 22
+  },
+  {
+    "date": "2020-01-30",
+    "confirmedNum": 19,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 19
+  },
+  {
+    "date": "2020-01-29",
+    "confirmedNum": 18,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 18
+  },
+  {
+    "date": "2020-01-28",
+    "confirmedNum": 13,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 13
+  },
+  {
+    "date": "2020-01-27",
+    "confirmedNum": 7,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 7
+  },
+  {
+    "date": "2020-01-26",
+    "confirmedNum": 5,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 5
+  },
+  {
+    "date": "2020-01-25",
+    "confirmedNum": 3,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 3
+  },
+  {
+    "date": "2020-01-24",
+    "confirmedNum": 1,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 1
+  },
+  {
+    "date": "2020-01-23",
+    "confirmedNum": 1,
+    "curesNum": 0,
+    "deathsNum": 0,
+    "curesRatio": 0,
+    "deathsRatio": 0,
+    "treatingNum": 1
+  }
+]

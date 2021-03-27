@@ -1,0 +1,156 @@
+﻿[
+  {
+    "confirmedNum": 242,
+    "curesNum": 240,
+    "deathsNum": 2,
+    "treatingNum": 0,
+    "id": "4301",
+    "name": "长沙",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 156,
+    "curesNum": 155,
+    "deathsNum": 1,
+    "treatingNum": 0,
+    "id": "4306",
+    "name": "岳阳",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 102,
+    "curesNum": 101,
+    "deathsNum": 1,
+    "treatingNum": 0,
+    "id": "4305",
+    "name": "邵阳",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 82,
+    "curesNum": 82,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4307",
+    "name": "常德",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 80,
+    "curesNum": 80,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4302",
+    "name": "株洲",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 76,
+    "curesNum": 76,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4313",
+    "name": "娄底",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 60,
+    "curesNum": 60,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4309",
+    "name": "益阳",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 48,
+    "curesNum": 48,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4304",
+    "name": "衡阳",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 44,
+    "curesNum": 44,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4311",
+    "name": "永州",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 40,
+    "curesNum": 40,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4312",
+    "name": "怀化",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 39,
+    "curesNum": 39,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4310",
+    "name": "郴州",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 36,
+    "curesNum": 36,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4303",
+    "name": "湘潭",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 8,
+    "curesNum": 8,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4331",
+    "name": "湘西",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  },
+  {
+    "confirmedNum": 5,
+    "curesNum": 5,
+    "deathsNum": 0,
+    "treatingNum": 0,
+    "id": "4308",
+    "name": "张家界",
+    "confirmedIncr": 0,
+    "isTreatingNumClear": true,
+    "jumpLocal": 1
+  }
+]
